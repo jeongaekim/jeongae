@@ -1,0 +1,4 @@
+cd C: \git_code\jeongae
+git clone https://github.com/jeongaekim/jeongae.git
+git add git_ss.txt
+git commit -m"Add Text File[git_ss.txt]"
